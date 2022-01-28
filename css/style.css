@@ -2,9 +2,9 @@ body{
 	font-family: Verdana, Times New Roman;
 	background-color: #000000;
 	color: hsl(0deg, 100%, 100%);
-	margin-top:25px;
-	margin-left:25px;
-	margin-right:25px;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
 	
 }
 
@@ -42,7 +42,6 @@ div{
 	border: 3px solid #ffffff;
 
 }
-
 .intro {
 	border-radius: 15px;
 	margin-top: 15px;
@@ -94,15 +93,13 @@ div{
 
 .green {
 	background-color: #008500;
+	text-align: left;
 	margin-right: 50px;
 	border-right: 10px;
 	border-bottom: 3px;
 	border-top: 0px;
 	border-left: 0px;
 
-}
-.green p{
-	text-align: left;
 }
 
 span{
@@ -112,29 +109,11 @@ span{
 
 }
 
-footer{
-	background: linear-gradient(#000000 0, #0000ff 25, #0066ff 70, #000000 100);
-	text-align: center;
-	padding-top: 10px;
-	padding-right: 10px;
-	padding-bottom: 10px;
-
-}
 
 footer{
 	background-image: linear-gradient(#000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
-
-}
-
-footer p{
 	text-align: center;
 	padding-top: 10px;
 	padding-right: 10px;
 	padding-bottom: 10px;
-
-
-
-
-
-
-
+}
